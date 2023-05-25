@@ -33,5 +33,5 @@
 }
 
 .fa-times-rectangle:before, .fa-window-close:before {
-    display: none !important;
+	content: "\f410" !important;
 }
