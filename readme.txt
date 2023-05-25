@@ -1,4 +1,4 @@
-=== Elementor Header & Footer Builder ===
+=== Elementor Header & Footer Builder2 ===
 Contributors: brainstormforce, Nikschavan
 Tags: elementor, header footer builder, header template, footer template, elementor widget, WordPress header, WordPress footer, elementor menu, website header design, footer design, blocks
 Donate link: https://www.paypal.me/BrainstormForce
