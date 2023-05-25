@@ -67,7 +67,3 @@
 .hfe-icon-retina-image:before {
   content: "\e907";
 }
-
-.fa-times-rectangle:before, .fa-window-close:before {
-  display: none !important;
-}
